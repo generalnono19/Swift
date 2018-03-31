@@ -1,16 +1,11 @@
 //: Playground - noun: a place where people can play
-
 import UIKit
 
-let words = ["Hello", "World", "in", "a", "frame"]
-
-let sentence = words.joined(separator: "")
+var words = ["Hello", "World", "in", "a", "frame"]
 
 print("*********")
-print("*",words[0],"*")
-print("*",words[1],"*")
-print("*",words[2],"","","","*")
-print("*",words[3],"","","","","*")
-print("*",words[4],"*")
+for i in 0...4 {
+    print("*",words[i],"*")
+}
 print("*********")
     
