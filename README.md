@@ -1,2 +1,2 @@
 # Swift
-I will put some examples here about Swift. 
+Small examples wrote it in Swift and explain the basics in Swift. 
