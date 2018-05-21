@@ -1,6 +1,5 @@
 //
 //  ViewController.swift
-//  RunStatic
 //
 //  Created by Nourallah on 19.05.18.
 //  Copyright © 2018 Nourallah. All rights reserved.
